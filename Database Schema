@@ -1,0 +1,6 @@
+Request model stores:
+requestId: Unique identifier for the request.
+productName: Product name associated with images.
+inputImageUrls: List of input image URLs.
+outputImageUrls: List of processed image URLs.
+status: Processing status (processing, completed).
